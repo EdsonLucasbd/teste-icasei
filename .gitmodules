@@ -1,0 +1,9 @@
+[submodule "bff"]
+	path = bff
+	url = ./bff/
+[submodule "mf_drawer"]
+	path = mf_drawer
+	url = ./mf_drawer
+[submodule "mf_videos"]
+	path = mf_videos
+	url = ./mf_videos
