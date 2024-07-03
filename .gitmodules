@@ -1,9 +1,9 @@
 [submodule "bff"]
 	path = bff
-	url = ./bff/
+	url = https://github.com/EdsonLucasbd/teste-icasei-bff
 [submodule "mf_drawer"]
 	path = mf_drawer
-	url = ./mf_drawer
+	url = https://github.com/EdsonLucasbd/teste-icasei-mf_drawer
 [submodule "mf_videos"]
 	path = mf_videos
-	url = ./mf_videos
+	url = https://github.com/EdsonLucasbd/teste-icasei-mf_videos
